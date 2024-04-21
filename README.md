@@ -54,6 +54,8 @@
 
 ### Решение 2 
 
+![2-1](https://github.com/blackgult/elkhw/blob/main/2-1.PNG)
+
 ---
 
 ### Задание 3. Logstash
