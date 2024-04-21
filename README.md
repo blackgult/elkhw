@@ -41,6 +41,9 @@
 
 ### Решение 1 
 
+![1-1](https://github.com/blackgult/elkhw/blob/main/1-1.PNG)
+
+
 ---
 
 ### Задание 2. Kibana
