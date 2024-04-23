@@ -81,6 +81,7 @@
 
 ![4-1](https://github.com/blackgult/elkhw/blob/main/4-1.PNG)
 
+![4-2](https://github.com/blackgult/elkhw/blob/main/4-2.PNG)
 
 ---
 ## Дополнительные задания (со звёздочкой*)
