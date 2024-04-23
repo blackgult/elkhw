@@ -77,6 +77,8 @@
 
 ### Решение 4 
 
+![4-1](https://github.com/blackgult/elkhw/blob/main/4-1.PNG)
+
 
 ---
 ## Дополнительные задания (со звёздочкой*)
