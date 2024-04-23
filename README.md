@@ -43,6 +43,8 @@
 
 ![1-1](https://github.com/blackgult/elkhw/blob/main/1-1.PNG)
 
+![1-2](https://github.com/blackgult/elkhw/blob/main/1-2.PNG)
+
 
 ---
 
