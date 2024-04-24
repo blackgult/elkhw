@@ -68,6 +68,22 @@
 
 ### Решение 3
 
+Отправка access-логов Nginx в Elasticsearch с помощь Logstash реализована с помощью filebeat и прописана в конфиг файле filebeat.
+Данная часть конфиг файла указывает на то, где лежат логи nginx.
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - /var/log/nginx/*.log
+
+И вывод в logstash прописан тут:
+output.logstash:
+  enabled: true
+  hosts: ["logstash:5044"]
+
+Скрин ниже:
+
+![3-1](https://github.com/blackgult/elkhw/blob/main/3-1.PNG)
 
 ---
 
